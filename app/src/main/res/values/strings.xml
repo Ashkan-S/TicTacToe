@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="game_name">Tic Tac Toe Game</string>
+    <string name="reset">Reset</string>
+    <string name="xIsEqualTo">X =</string>
+    <string name="oIsEqualTo">O =</string>
+    <string name="zero">0</string>
+    <string name="lineSpacer">----------</string>
+    <string name="start_again">Start again</string>
+</resources>
